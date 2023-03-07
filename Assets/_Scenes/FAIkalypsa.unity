@@ -40413,32 +40413,36 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3888737293353130966, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888737293353130966, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 14.244277
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 3888737293353130966, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.47
+      value: 3.08
       objectReference: {fileID: 0}
     - target: {fileID: 3888737293353130966, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -36.04
+      value: -36
       objectReference: {fileID: 0}
     - target: {fileID: 3888737293353130966, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.9986108
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3888737293353130966, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.034776095
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3888737293353130966, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.039563257
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3888737293353130966, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.0013609518
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3888737293353130966, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -40455,6 +40459,14 @@ PrefabInstance:
     - target: {fileID: 3888737293353446830, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
       propertyPath: m_Name
       value: PlayerCC
+      objectReference: {fileID: 0}
+    - target: {fileID: 6779879814815757263, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
+      propertyPath: m_Height
+      value: 1.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 7521610193819580300, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
+      propertyPath: m_Height
+      value: 1.9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd66f679e7ce781409c4cf65ec5085e9, type: 3}
